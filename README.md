@@ -18,8 +18,8 @@ volumes: ['./:/usr/src/app']
 # To re-build
 docker-compose build
 ```
-# From Brad Traversy Courses
 #
+# From Brad Traversy Courses
 # Docker Commands, Help & Tips
 ### Show commands & management commands
 ```
